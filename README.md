@@ -1,2 +1,3 @@
-# fso2022
-FullStackOpen2022
+# fso2023
+
+FullStackOpen2023 Exercises
